@@ -1,1 +1,1 @@
-This is just a space for my persomal coding projects and little stuff!
+This is just a space for my personal coding projects and little stuff!
